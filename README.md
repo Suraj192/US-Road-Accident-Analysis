@@ -1,5 +1,6 @@
 # US-Road-Accident-Analysis
-Accident Analysis according to the data Attributes
+Accident Analysis according to the data Attributes.
+
 Source of Data: https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 Contributor:
